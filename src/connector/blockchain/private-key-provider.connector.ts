@@ -1,4 +1,4 @@
-import {EIP712TypedData} from '@1inch/limit-order-sdk'
+import {EIP712TypedData} from '@nikhil0341/limit-order-sdk'
 import {Wallet} from 'ethers'
 import {BlockchainProviderConnector} from './blockchain-provider.connector'
 import {Web3Like} from './web3-provider-connector'

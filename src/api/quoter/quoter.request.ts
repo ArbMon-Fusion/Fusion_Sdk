@@ -1,4 +1,4 @@
-import {Address} from '@1inch/limit-order-sdk'
+import {Address} from '@nikhil0341/limit-order-sdk'
 import {QuoterRequestParams} from './types'
 import {isValidAmount} from '../../validations'
 

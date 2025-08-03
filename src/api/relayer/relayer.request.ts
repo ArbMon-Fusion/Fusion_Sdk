@@ -1,4 +1,4 @@
-import {LimitOrderV4Struct} from '@1inch/limit-order-sdk'
+import {LimitOrderV4Struct} from '@nikhil0341/limit-order-sdk'
 import {RelayerRequestParams} from './types'
 
 export class RelayerRequest {

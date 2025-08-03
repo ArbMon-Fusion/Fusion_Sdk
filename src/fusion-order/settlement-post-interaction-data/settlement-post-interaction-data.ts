@@ -1,4 +1,4 @@
-import {Address, Extension} from '@1inch/limit-order-sdk'
+import {Address, Extension} from '@nikhil0341/limit-order-sdk'
 import {BitMask, BN, BytesBuilder, BytesIter} from '@1inch/byte-utils'
 import assert from 'assert'
 import {IntegratorFee, SettlementSuffixData} from './types'

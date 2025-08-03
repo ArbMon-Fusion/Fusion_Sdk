@@ -1,4 +1,4 @@
-import {LimitOrderV4Struct} from '@1inch/limit-order-sdk'
+import {LimitOrderV4Struct} from '@nikhil0341/limit-order-sdk'
 import {NetworkEnum} from '../../constants'
 import {PaginationOutput} from '../types'
 import {AuctionPoint} from '../quoter'

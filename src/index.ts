@@ -13,7 +13,7 @@ export {
     OrderInfoData,
     EIP712TypedData,
     MakerTraits
-} from '@1inch/limit-order-sdk'
+} from '@nikhil0341/limit-order-sdk'
 export * from './fusion-order/index'
 export * from './auction-calculator/index'
 export * from './connector/index'

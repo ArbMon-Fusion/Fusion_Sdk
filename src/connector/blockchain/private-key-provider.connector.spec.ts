@@ -7,7 +7,7 @@ import {
     LimitOrderV4TypeDataName,
     LimitOrderV4TypeDataVersion,
     Order
-} from '@1inch/limit-order-sdk'
+} from '@nikhil0341/limit-order-sdk'
 import {PrivateKeyProviderConnector} from './private-key-provider.connector'
 import {Web3Like} from './web3-provider-connector'
 

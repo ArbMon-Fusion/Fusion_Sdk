@@ -7,7 +7,7 @@ import {
     LimitOrderV4Struct,
     MakerTraits,
     OrderInfoData
-} from '@1inch/limit-order-sdk'
+} from '@nikhil0341/limit-order-sdk'
 import assert from 'assert'
 import {FusionExtension} from './fusion-extension'
 import {AuctionDetails} from './auction-details'

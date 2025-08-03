@@ -1,4 +1,4 @@
-import {LimitOrderV4Struct} from '@1inch/limit-order-sdk'
+import {LimitOrderV4Struct} from '@nikhil0341/limit-order-sdk'
 import {BlockchainProviderConnector, HttpProviderConnector} from '../connector'
 import {NetworkEnum} from '../constants'
 import {CustomPreset, PresetEnum} from '../api'

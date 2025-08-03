@@ -1,4 +1,4 @@
-import {EIP712TypedData} from '@1inch/limit-order-sdk'
+import {EIP712TypedData} from '@nikhil0341/limit-order-sdk'
 
 export interface BlockchainProviderConnector {
     signTypedData(

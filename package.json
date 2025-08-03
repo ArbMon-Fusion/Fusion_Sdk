@@ -1,5 +1,5 @@
 {
-    "name": "@1inch/fusion-sdk",
+    "name": "@nikhil0341/fusion-sdk",
     "version": "2.1.11-rc.2",
     "description": "1inch Fusion SDK",
     "author": "@1inch",
@@ -15,7 +15,7 @@
     "types": "dist/types/src/index.d.ts",
     "repository": {
         "type": "git",
-        "url": "ssh://git@github.com:1inch/fusion-sdk.git"
+        "url": "ssh://git@github.com:ArbMon-Fusion/Fusion_Sdk.git"
     },
     "scripts": {
         "build": "npm run build:esm && npm run build:cjs && npm run build:types",
@@ -32,7 +32,7 @@
     },
     "dependencies": {
         "@1inch/byte-utils": "2.3.0",
-        "@1inch/limit-order-sdk": "file:../limit-order-sdk",
+        "@nikhil0341/limit-order-sdk": "^5.0.4-rc.1",
         "ethers": "^6.13.1",
         "tslib": "^2.6.3",
         "ws": "^8.17.1"

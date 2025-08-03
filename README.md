@@ -5,13 +5,13 @@
 ### Npm
 
 ```
-npm install @1inch/fusion-sdk@2
+npm install@nikhil0341/fusion-sdk@2
 ```
 
 ### Yarn
 
 ```
-yarn add @1inch/fusion-sdk@2
+yarn add@nikhil0341/fusion-sdk@2
 ```
 
 ## Modules docs

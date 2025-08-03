@@ -7,7 +7,7 @@ import {
     LimitOrderV4TypeDataName,
     LimitOrderV4TypeDataVersion,
     Order
-} from '@1inch/limit-order-sdk'
+} from '@nikhil0341/limit-order-sdk'
 import {Web3Like, Web3ProviderConnector} from './web3-provider-connector'
 
 describe('Web3 provider connector', () => {

@@ -1,4 +1,4 @@
-import {Address, MakerTraits} from '@1inch/limit-order-sdk'
+import {Address, MakerTraits} from '@nikhil0341/limit-order-sdk'
 import {
     FusionSDKConfigParams,
     OrderInfo,

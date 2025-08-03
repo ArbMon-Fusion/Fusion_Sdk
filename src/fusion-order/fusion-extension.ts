@@ -3,7 +3,7 @@ import {
     Extension,
     ExtensionBuilder,
     Interaction
-} from '@1inch/limit-order-sdk'
+} from '@nikhil0341/limit-order-sdk'
 import assert from 'assert'
 
 import {AuctionDetails} from './auction-details'

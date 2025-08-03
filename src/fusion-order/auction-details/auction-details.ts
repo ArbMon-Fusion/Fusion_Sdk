@@ -1,6 +1,6 @@
 import {ethers} from 'ethers'
 import {BytesIter} from '@1inch/byte-utils'
-import {Extension} from '@1inch/limit-order-sdk'
+import {Extension} from '@nikhil0341/limit-order-sdk'
 import assert from 'assert'
 import {AuctionGasCostInfo, AuctionPoint} from './types'
 import {isHexBytes} from '../../validations'
